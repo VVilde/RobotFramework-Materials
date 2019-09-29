@@ -3,6 +3,7 @@ A list of Robot Framework resources, libraries and tools.
 
  - [Advanced Logging Library](https://github.com/peterservice-rnd/robotframework-advancedlogging) Creating additional logs when testing in Robot Framework.
  - [Apache Tomcat Manager](https://github.com/peterservice-rnd/robotframework-apachetomcat) Robot Framework library to manage Apache Tomcat server.
+ - [robotframework-aws](https://github.com/teaglebuilt/robotframework-AWS) Robot Framework library to interact with Amazon Web Serives like S3, DynamoDB, RDS, and more.
  - [CassandraCQL Library](https://github.com/peterservice-rnd/robotframework-cassandracqllibrary) Robot Framework library to execute CQL statements in Cassandra Database.
  - [Couchbase Library](https://github.com/peterservice-rnd/robotframework-couchbaselibrary) Robot Framework library to work with Couchbase.
  - [Couchbase Manager Library](https://github.com/peterservice-rnd/robotframework-couchbasemanager) Robot Framework library for managing Couchbase server, based on Couchbase REST API.
